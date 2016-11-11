@@ -1,2 +1,2 @@
-# js-small
-js -tools
+# -js-
+一个轻量的js常用函数框架，包含DOM操作，动画效果
